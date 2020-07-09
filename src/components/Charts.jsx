@@ -5,8 +5,7 @@ import {
   Line,
   CartesianGrid,
   XAxis,
-  YAxis,
-  ResponsiveContainer
+  YAxis
 } from "recharts";
 
 const data = [
